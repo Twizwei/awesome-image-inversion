@@ -12,10 +12,9 @@ A repo collecting papers/projects about image inversion.
 
 ### Papers
 
-  - [In-Domain GAN Inversion for Real Image Editing
-](https://arxiv.org/pdf/2004.00049.pdf), ECCV 2020, [code](https://github.com/genforce/idinvert_pytorch), [project page](https://genforce.github.io/idinvert/)
-  - [Transforming and Projecting Images into
-Class-conditional Generative Networks](http://people.csail.mit.edu/minhuh/papers/pix2latent/arxiv_v2.pdf), ECCV 2020 (oral), [code](https://github.com/minyoungg/pix2latent), [project page](https://minyoungg.github.io/pix2latent/)
+  - [In-Domain GAN Inversion for Real Image Editing](https://arxiv.org/pdf/2004.00049.pdf), ECCV 2020, [code](https://github.com/genforce/idinvert_pytorch), [project page](https://genforce.github.io/idinvert/)
+  - [Transforming and Projecting Images into Class-conditional Generative Networks](http://people.csail.mit.edu/minhuh/papers/pix2latent/arxiv_v2.pdf), ECCV 2020 (oral), [code](https://github.com/minyoungg/pix2latent), [project page](https://minyoungg.github.io/pix2latent/)
+  - [Image Processing Using Multi-Code GAN Prior](https://arxiv.org/pdf/1912.07116.pdf), [code](https://github.com/genforce/mganprior), [project page](https://genforce.github.io/mganprior/)
   - [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.pdf), ICCV 2019, [code1](https://github.com/Puzer/stylegan-encoder), [code2](https://github.com/pacifinapacific/StyleGAN_LatentEditor), [code3](https://github.com/woctezuma/stylegan2-projecting-images)
   - [Seeing what a gan cannot generate](https://arxiv.org/pdf/1910.11626.pdf), ICCV 2019, [code](https://github.com/davidbau/ganseeing), [project page](http://ganseeing.csail.mit.edu/), [demo](http://gannotsee.net/)
   - [Inverting layers of a large generator](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf), ICLR 2019 Workshop
