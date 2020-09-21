@@ -6,9 +6,9 @@ A repo collecting papers/projects about image inversion.
 
 ## Contents
 
-*[Papers](#papers)
-*[Talks](#talks)
-*[Miscellaneous](#miscellaneous)
+* [Papers](#papers)
+* [Talks](#talks)
+* [Miscellaneous](#miscellaneous)
 
 ### Papers
 
@@ -26,3 +26,9 @@ Class-conditional Generative Networks](http://people.csail.mit.edu/minhuh/papers
 ](https://papers.nips.cc/paper/8171-invertibility-of-convolutional-generative-networks-from-partial-measurements.pdf), [code](https://github.com/fangchangma/invert-generative-networks)
   - [Generative Visual Manipulation on the Natural Image Manifold
 ](https://arxiv.org/pdf/1609.03552.pdf), ECCV 2016, [code](https://github.com/junyanz/iGAN), [project page](https://www.cs.cmu.edu/~junyanz/projects/gvm/)
+
+### Talks
+To be added
+
+### Miscellaneous
+To be added
